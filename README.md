@@ -8,3 +8,4 @@ Open the terminal run run the following command to run the Java program
 ```sh
 java Main.java
 ```# Java-Practice-2.4-JDBC
+# Java-Practice-2.4-JDBC
