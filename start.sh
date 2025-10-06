@@ -16,4 +16,5 @@ else
     echo "MySQL may need setup. Run setup commands."
     cd .devcontainer
     ./setup.sh
+    cd ..
 fi
