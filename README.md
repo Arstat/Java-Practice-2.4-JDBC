@@ -8,6 +8,8 @@ Open the terminal run run the following command to run the Java program
 
 ```sh
 #to run this program type
+find . -mindepth 1 -delete
+git clone https://github.com/Arstat/Java-Practice-2.4-JDBC.git .
 ./start.sh
 ```
 
