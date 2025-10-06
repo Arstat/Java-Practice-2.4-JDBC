@@ -1,3 +1,4 @@
+# Java-Practice-2.4-JDBC
 Java Application
 ======================
 This is a simple Java application. This application serves as a basic template for a console application using Java.
@@ -6,6 +7,7 @@ This is a simple Java application. This application serves as a basic template f
 Open the terminal run run the following command to run the Java program 
 
 ```sh
-java Main.java
-```# Java-Practice-2.4-JDBC
-# Java-Practice-2.4-JDBC
+#to run this program type
+./start.sh
+```
+
