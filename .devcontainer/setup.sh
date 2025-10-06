@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🚀 Setting up JDBC environment..."
+echo "Setting up JDBC environment..."
 
 # Install MySQL
 sudo apt-get update -qq
@@ -64,4 +64,4 @@ INSERT INTO Student (Name, Department, Marks) VALUES
 ('Bob Smith', 'Electrical Engineering', 78.0);
 EOSQL
 
-echo "✅ Setup complete!"
+echo "Setup complete!"
